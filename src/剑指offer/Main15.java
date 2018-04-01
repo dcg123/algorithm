@@ -16,6 +16,6 @@ public class Main15 {
     }
     public ListNode Merge(ListNode list1,ListNode list2) {
         ListNode merge=null;
-
+        return null;
     }
 }
